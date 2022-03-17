@@ -1989,3 +1989,521 @@ Reference List:
 [2022.03.17-21.58.09:605][530]Cmd: TRANSACTION UNDO
 [2022.03.17-21.58.09:605][530]LogEditorTransaction: Undo Clicking on Actors (context menu)
 [2022.03.17-21.58.13:102][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_top)
+[2022.03.17-22.24.10:514][636]Cmd: TRANSACTION UNDO
+[2022.03.17-22.24.10:514][636]LogEditorTransaction: Undo Move Actors
+[2022.03.17-22.24.11:267][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_leg)
+[2022.03.17-22.24.52:541][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.24.53:213][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_leg)
+[2022.03.17-22.25.03:597][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_top)
+[2022.03.17-22.25.12:680][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_top)
+[2022.03.17-22.25.13:770][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_leg)
+[2022.03.17-22.25.15:580][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_top)
+[2022.03.17-22.25.31:034][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_leg)
+[2022.03.17-22.25.31:898][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_top)
+[2022.03.17-22.25.58:167][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_top)
+[2022.03.17-22.25.58:798][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_leg)
+[2022.03.17-22.26.05:132][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_top)
+[2022.03.17-22.26.17:407][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.26.57:974][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.03.17-22.26.59:376][519]LogSavePackage: Moving 'C:/Users/zhzixuan/Desktop/zzx/arch_509_AT_projs/PhillipsHouse_Team/Saved/PhillipsHouse_Auto4C80A06F24AE5C5AB0147258FB855C63D.tmp' to 'C:/Users/zhzixuan/Desktop/zzx/arch_509_AT_projs/PhillipsHouse_Team/Saved/Autosaves/Game/VRTemplate/Maps/PhillipsHouse_Auto4.umap'
+[2022.03.17-22.26.59:384][519]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/PhillipsHouse' took 1.431
+[2022.03.17-22.26.59:384][519]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.431
+[2022.03.17-22.32.57:139][167]AssetReimport: New page: Outstanding source content changes 2:32:57 PM
+[2022.03.17-22.32.57:225][167]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/zhzixuan/Desktop/zzx/arch_509_AT_projs/PhillipsHouse_Team/Content/fur/plant_338_fbx_standard.FBX)
+[2022.03.17-22.32.57:314][167]LogFbx: Loading FBX Scene from C:/Users/zhzixuan/Desktop/zzx/arch_509_AT_projs/PhillipsHouse_Team/Content/fur/plant_338_fbx_standard.FBX
+[2022.03.17-22.32.58:151][167]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.17-22.32.59:416][167]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.17-22.32.59:823][167]LogStaticMesh: Building static mesh plant_338_fbx_standard_plant_338_Fan_Palm...
+[2022.03.17-22.33.00:354][167]LogStaticMesh: Built static mesh [0.53s] /Game/fur/plant_338_fbx_standard_plant_338_Fan_Palm.plant_338_fbx_standard_plant_338_Fan_Palm
+[2022.03.17-22.33.01:115][167]LogStaticMesh: Building static mesh plant_338_fbx_standard_plant_338_basket_02...
+[2022.03.17-22.33.02:220][167]LogStaticMesh: Built static mesh [1.11s] /Game/fur/plant_338_fbx_standard_plant_338_basket_02.plant_338_fbx_standard_plant_338_basket_02
+[2022.03.17-22.33.03:226][167]LogStaticMesh: Building static mesh plant_338_fbx_standard_plant_338_basket_01...
+[2022.03.17-22.33.04:613][167]LogStaticMesh: Built static mesh [1.39s] /Game/fur/plant_338_fbx_standard_plant_338_basket_01.plant_338_fbx_standard_plant_338_basket_01
+[2022.03.17-22.33.05:882][167]LogStaticMesh: Building static mesh plant_338_fbx_standard_plant_338_palm_01...
+[2022.03.17-22.33.07:203][167]LogStaticMesh: Built static mesh [1.32s] /Game/fur/plant_338_fbx_standard_plant_338_palm_01.plant_338_fbx_standard_plant_338_palm_01
+[2022.03.17-22.33.08:847][167]LogStaticMesh: Building static mesh plant_338_fbx_standard_plant_338_tropic_palm...
+[2022.03.17-22.33.10:183][167]LogStaticMesh: Built static mesh [1.34s] /Game/fur/plant_338_fbx_standard_plant_338_tropic_palm.plant_338_fbx_standard_plant_338_tropic_palm
+[2022.03.17-22.33.11:402][167]LogStaticMesh: Building static mesh plant_338_fbx_standard_plant_338_basket_04...
+[2022.03.17-22.33.12:510][167]LogStaticMesh: Built static mesh [1.11s] /Game/fur/plant_338_fbx_standard_plant_338_basket_04.plant_338_fbx_standard_plant_338_basket_04
+[2022.03.17-22.33.13:469][167]LogStaticMesh: Building static mesh plant_338_fbx_standard_plant_338_basket_05...
+[2022.03.17-22.33.14:744][167]LogStaticMesh: Built static mesh [1.28s] /Game/fur/plant_338_fbx_standard_plant_338_basket_05.plant_338_fbx_standard_plant_338_basket_05
+[2022.03.17-22.33.15:624][167]LogStaticMesh: Building static mesh plant_338_fbx_standard_plant_338_Paradise...
+[2022.03.17-22.33.15:837][167]LogStaticMesh: Built static mesh [0.21s] /Game/fur/plant_338_fbx_standard_plant_338_Paradise.plant_338_fbx_standard_plant_338_Paradise
+[2022.03.17-22.33.16:401][167]LogStaticMesh: Building static mesh plant_338_fbx_standard_plant_338_farn...
+[2022.03.17-22.33.17:257][167]LogStaticMesh: Built static mesh [0.86s] /Game/fur/plant_338_fbx_standard_plant_338_farn.plant_338_fbx_standard_plant_338_farn
+[2022.03.17-22.33.18:206][167]LogStaticMesh: Building static mesh plant_338_fbx_standard_plant_338_basket_03...
+[2022.03.17-22.33.19:175][167]LogStaticMesh: Built static mesh [0.97s] /Game/fur/plant_338_fbx_standard_plant_338_basket_03.plant_338_fbx_standard_plant_338_basket_03
+[2022.03.17-22.33.22:807][167]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'versalwood_dif' was renamed 'versalwood_dif_ncl1_1' 
+[2022.03.17-22.33.22:807][167]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'zen03' was renamed 'zen03_ncl1_1' 
+[2022.03.17-22.33.22:807][167]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'plant_113_ref' was renamed 'plant_113_ref_ncl1_1' 
+[2022.03.17-22.33.22:807][167]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'palm_steam_02' was renamed 'palm_steam_02_ncl1_1' 
+[2022.03.17-22.33.23:328][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.03.17-22.33.23:408][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:408][171]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2022.03.17-22.33.23:408][171]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2022.03.17-22.33.23:408][171]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:410][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:416][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:422][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:426][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:426][171]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 8
+[2022.03.17-22.33.23:426][171]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 7
+[2022.03.17-22.33.23:426][171]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 6
+[2022.03.17-22.33.23:426][171]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 5
+[2022.03.17-22.33.23:426][171]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 4
+[2022.03.17-22.33.23:426][171]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 3
+[2022.03.17-22.33.23:426][171]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 2
+[2022.03.17-22.33.23:426][171]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 1
+[2022.03.17-22.33.23:426][171]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:430][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:440][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:450][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:458][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:466][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:474][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:482][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:488][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:492][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:500][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 6
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 5
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 4
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 3
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 2
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 1
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 98
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 93
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 88
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 83
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:506][171]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:508][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:514][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:518][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:522][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:530][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:540][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:548][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:558][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:566][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:574][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:584][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:591][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:601][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:607][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:617][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:625][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:637][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:677][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:687][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:695][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:705][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:713][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:723][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:731][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:741][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.23:747][171]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.23:759][171]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.24:328][180]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 26
+[2022.03.17-22.33.24:330][180]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.24:345][180]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.17-22.33.24:345][180]LogShaderCompilers: Display: Total job queries 748, among them cache hits 22 (2.94%)
+[2022.03.17-22.33.24:345][180]LogShaderCompilers: Display: Tracking 359 distinct input hashes that result in 145 distinct outputs (40.39%)
+[2022.03.17-22.33.24:345][180]LogShaderCompilers: Display: RAM used: 1.80 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2022.03.17-22.33.24:345][180]LogShaderCompilers: Display: ================================================
+[2022.03.17-22.33.24:411][182]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 24
+[2022.03.17-22.33.24:411][182]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.24:467][183]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 22
+[2022.03.17-22.33.24:467][183]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.24:564][185]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 20
+[2022.03.17-22.33.24:564][185]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.24:564][185]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 18
+[2022.03.17-22.33.24:564][185]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.24:610][186]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 17
+[2022.03.17-22.33.24:610][186]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.24:644][187]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 16
+[2022.03.17-22.33.24:644][187]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.24:686][188]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 15
+[2022.03.17-22.33.24:686][188]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.25:526][203]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 14
+[2022.03.17-22.33.25:526][203]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.25:588][205]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 13
+[2022.03.17-22.33.25:588][205]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.26:378][226]AssetReimport: Importing new asset /Game/fur/plant_338_fbx_standard.
+[2022.03.17-22.33.26:470][229]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 12
+[2022.03.17-22.33.26:470][229]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.27:743][257]LogSlate: Window 'Message Log' being destroyed
+[2022.03.17-22.33.27:756][257]LogSlate: Window 'Message Log' being destroyed
+[2022.03.17-22.33.31:812][330]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 11
+[2022.03.17-22.33.31:812][330]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.32:135][335]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 10
+[2022.03.17-22.33.32:135][335]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.32:143][335]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 9
+[2022.03.17-22.33.32:143][335]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.32:177][336]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 8
+[2022.03.17-22.33.32:177][336]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.32:262][338]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 7
+[2022.03.17-22.33.32:262][338]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.32:283][338]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 6
+[2022.03.17-22.33.32:284][338]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.32:325][339]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 5
+[2022.03.17-22.33.32:325][339]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.32:325][339]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 4
+[2022.03.17-22.33.32:325][339]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.32:617][344]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 3
+[2022.03.17-22.33.32:617][344]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.32:977][349]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2022.03.17-22.33.32:977][349]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.33:143][352]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 1
+[2022.03.17-22.33.33:143][352]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.33.33:143][352]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 274
+[2022.03.17-22.33.33:143][352]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.33:168][352]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 264
+[2022.03.17-22.33.33:168][352]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.33:211][353]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 254
+[2022.03.17-22.33.33:211][353]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.33:447][357]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 244
+[2022.03.17-22.33.33:447][357]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.33:741][362]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 234
+[2022.03.17-22.33.33:741][362]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 224
+[2022.03.17-22.33.33:741][362]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.33:820][363]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 214
+[2022.03.17-22.33.33:820][363]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.33:856][364]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 204
+[2022.03.17-22.33.33:856][364]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.33:910][365]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 194
+[2022.03.17-22.33.33:911][365]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.33:951][366]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 184
+[2022.03.17-22.33.33:951][366]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.34:763][378]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 174
+[2022.03.17-22.33.34:763][378]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.39:799][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (extrusion_591)
+[2022.03.17-22.33.40:625][477]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 165
+[2022.03.17-22.33.40:625][477]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.40:643][477]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 156
+[2022.03.17-22.33.40:643][477]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.40:743][479]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 148
+[2022.03.17-22.33.40:743][479]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.40:772][480]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 140
+[2022.03.17-22.33.40:772][480]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.41:212][487]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 132
+[2022.03.17-22.33.41:212][487]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.42:780][511]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 125
+[2022.03.17-22.33.42:781][511]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.42:819][512]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 118
+[2022.03.17-22.33.42:819][512]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.42:870][513]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 112
+[2022.03.17-22.33.42:870][513]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.33.51:079][661]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 106
+[2022.03.17-22.33.51:079][661]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.09:408][979]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 100
+[2022.03.17-22.34.09:408][979]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.10:639][999]LogActorFactory: Actor Factory created plant_338_fbx_standard_plant_338_tropic_palm
+[2022.03.17-22.34.10:701][  0]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 94
+[2022.03.17-22.34.10:701][  0]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.10:909][  0]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 89
+[2022.03.17-22.34.10:909][  0]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.11:087][  2]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 84
+[2022.03.17-22.34.11:087][  2]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.11:197][  3]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 79
+[2022.03.17-22.34.11:197][  3]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.11:721][ 14]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 75
+[2022.03.17-22.34.11:721][ 14]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.11:938][ 19]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 71
+[2022.03.17-22.34.11:938][ 19]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.12:007][ 19]LogActorFactory: Actor Factory created plant_338_fbx_standard_plant_338_tropic_palm
+[2022.03.17-22.34.17:629][126]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 67
+[2022.03.17-22.34.17:629][126]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.17:680][127]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 63
+[2022.03.17-22.34.17:680][127]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.17:810][129]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 59
+[2022.03.17-22.34.17:810][129]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.18:746][139]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 56
+[2022.03.17-22.34.18:746][139]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.19:380][148]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 53
+[2022.03.17-22.34.19:380][148]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.19:651][152]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 50
+[2022.03.17-22.34.19:651][152]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.20:452][166]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 47
+[2022.03.17-22.34.20:452][166]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.20:471][166]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 44
+[2022.03.17-22.34.20:471][166]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.20:508][167]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 41
+[2022.03.17-22.34.20:508][167]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.20:781][171]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 38
+[2022.03.17-22.34.20:781][171]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.21:194][177]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 36
+[2022.03.17-22.34.21:194][177]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.22:150][195]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 34
+[2022.03.17-22.34.22:150][195]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.22:810][208]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 32
+[2022.03.17-22.34.22:810][208]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.26:569][296]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 30
+[2022.03.17-22.34.26:569][296]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.28:899][341]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 28
+[2022.03.17-22.34.28:899][341]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.28:899][341]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 26
+[2022.03.17-22.34.28:899][341]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.29:795][356]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 24
+[2022.03.17-22.34.29:795][356]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.29:980][357]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 22
+[2022.03.17-22.34.29:980][357]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.30:208][359]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 20
+[2022.03.17-22.34.30:208][359]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.30:733][367]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 18
+[2022.03.17-22.34.30:733][367]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.30:893][369]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 17
+[2022.03.17-22.34.30:893][369]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.31:088][371]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 16
+[2022.03.17-22.34.31:088][371]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.31:389][374]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 15
+[2022.03.17-22.34.31:389][374]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.31:599][377]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 14
+[2022.03.17-22.34.31:599][377]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.32:164][384]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 13
+[2022.03.17-22.34.32:164][384]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.32:206][385]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 12
+[2022.03.17-22.34.32:206][385]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.32:458][387]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 11
+[2022.03.17-22.34.32:458][387]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.33:007][396]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 10
+[2022.03.17-22.34.33:007][396]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.35:953][442]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 9
+[2022.03.17-22.34.35:953][442]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.36:221][446]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 8
+[2022.03.17-22.34.36:221][446]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.36:251][447]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 7
+[2022.03.17-22.34.36:251][447]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.37:087][460]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 6
+[2022.03.17-22.34.37:087][460]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.37:354][464]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 5
+[2022.03.17-22.34.37:354][464]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.37:829][468]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 4
+[2022.03.17-22.34.37:829][468]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.38:673][481]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 3
+[2022.03.17-22.34.38:673][481]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.38:727][482]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 2
+[2022.03.17-22.34.38:727][482]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.38:727][482]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 1
+[2022.03.17-22.34.38:727][482]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.34.45:511][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_338_fbx_standard_plant_338_tropic_palm)
+[2022.03.17-22.34.57:726][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.34.58:477][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_338_fbx_standard_plant_338_tropic_palm)
+[2022.03.17-22.34.59:498][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.35.00:629][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_338_fbx_standard_plant_338_tropic_palm)
+[2022.03.17-22.35.03:761][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.35.05:043][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_338_fbx_standard_plant_338_tropic_palm)
+[2022.03.17-22.35.14:360][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.35.15:985][112]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.15:985][112]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.16:679][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.35.20:972][413]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.20:972][413]LogEditorTransaction: Undo Move Actors
+[2022.03.17-22.35.21:760][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_338_fbx_standard_plant_338_tropic_palm)
+[2022.03.17-22.35.24:086][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.35.31:569][933]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.31:569][933]LogEditorTransaction: Undo Create Actors
+[2022.03.17-22.35.33:052][999]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.33:052][999]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.33:529][ 21]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.33:529][ 21]LogEditorTransaction: Undo Move Actors
+[2022.03.17-22.35.33:971][ 43]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.33:971][ 43]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.34:440][ 66]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.34:440][ 66]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.35:509][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.35.38:078][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.35.38:564][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_338_fbx_standard_plant_338_tropic_palm)
+[2022.03.17-22.35.39:691][360]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.39:691][360]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.40:104][368]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.40:105][368]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.40:464][377]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.40:464][377]LogEditorTransaction: Undo Create Actors
+[2022.03.17-22.35.40:672][385]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.40:672][385]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.40:833][391]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.40:833][391]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.40:980][397]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.40:980][397]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.41:140][404]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.41:140][404]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.41:318][412]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.41:318][412]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.41:479][420]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.41:479][420]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.41:606][426]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.41:606][426]LogEditorTransaction: Undo Set Scale
+[2022.03.17-22.35.41:843][436]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.41:843][436]LogEditorTransaction: Undo Move Actors
+[2022.03.17-22.35.42:260][457]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.42:260][457]LogEditorTransaction: Undo Set Scale
+[2022.03.17-22.35.42:576][471]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.42:577][471]LogEditorTransaction: Undo Set Scale
+[2022.03.17-22.35.42:868][486]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.42:869][486]LogEditorTransaction: Undo Move Actors
+[2022.03.17-22.35.43:112][497]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.43:112][497]LogEditorTransaction: Undo Create Actors
+[2022.03.17-22.35.43:349][502]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.43:349][502]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.44:261][550]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.44:261][550]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.46:382][649]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.46:382][649]LogEditorTransaction: Undo Set Location
+[2022.03.17-22.35.46:843][668]Cmd: TRANSACTION UNDO
+[2022.03.17-22.35.46:843][668]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-22.35.55:671][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.36.07:927][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.36.10:662][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_top)
+[2022.03.17-22.36.15:391][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mesh_3)
+[2022.03.17-22.36.19:595][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_leg)
+[2022.03.17-22.36.20:888][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.36.21:419][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.36.22:003][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_table_round_for_4_people-fbx_leg)
+[2022.03.17-22.36.25:097][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.36.32:106][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.03.17-22.36.33:509][991]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.17-22.36.33:758][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.03.17-22.37.05:614][653]AssetReimport: New page: Outstanding source content changes 2:37:05 PM
+[2022.03.17-22.37.05:638][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.03.17-22.37.08:222][653]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.17-22.37.08:482][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.03.17-22.37.11:511][883]AssetReimport: Attempting to delete plant_338_fbx_standard_plant_338_basket_02 (its source file has been removed).
+[2022.03.17-22.37.11:511][883]AssetReimport: Attempting to delete plant_338_fbx_standard_plant_338_basket_01 (its source file has been removed).
+[2022.03.17-22.37.11:511][883]AssetReimport: Attempting to delete plant_338_fbx_standard_plant_338_basket_04 (its source file has been removed).
+[2022.03.17-22.37.11:511][883]AssetReimport: Attempting to delete plant_338_fbx_standard_plant_338_basket_03 (its source file has been removed).
+[2022.03.17-22.37.27:729][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.17-22.37.28:968][883]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.17-22.37.29:029][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.03.17-22.37.35:327][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.17-22.37.36:720][274]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.17-22.37.36:792][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.03.17-22.37.41:752][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.03.17-22.37.43:172][618]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.17-22.37.43:236][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.17-22.37.49:187][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.03.17-22.37.50:010][952]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.17-22.37.50:065][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.03.17-22.37.58:744][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.38.04:265][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (model)
+[2022.03.17-22.38.08:581][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.38.11:619][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (model)
+[2022.03.17-22.38.13:850][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.38.15:872][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (model)
+[2022.03.17-22.38.21:353][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (model2)
+[2022.03.17-22.38.47:640][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.39.05:228][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.03.17-22.39.06:711][125]LogSavePackage: Moving 'C:/Users/zhzixuan/Desktop/zzx/arch_509_AT_projs/PhillipsHouse_Team/Saved/PhillipsHouseBB8D3D344BAF0B5B538ADAAC0E8DD843.tmp' to 'C:/Users/zhzixuan/Desktop/zzx/arch_509_AT_projs/PhillipsHouse_Team/Content/VRTemplate/Maps/PhillipsHouse.umap'
+[2022.03.17-22.39.06:755][125]AssetCheck: New page: Asset Save: PhillipsHouse
+[2022.03.17-22.39.06:755][125]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/PhillipsHouse.PhillipsHouse
+[2022.03.17-22.39.11:753][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_278)
+[2022.03.17-22.42.18:861][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (brep_1613)
+[2022.03.17-22.43.33:827][276]AssetReimport: New page: Outstanding source content changes 2:43:33 PM
+[2022.03.17-22.43.33:833][276]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/zhzixuan/Desktop/zzx/arch_509_AT_projs/PhillipsHouse_Team/Content/fur/Parachilna_Aballs_T_ME_mat(1).fbx)
+[2022.03.17-22.43.33:847][276]LogFbx: Loading FBX Scene from C:/Users/zhzixuan/Desktop/zzx/arch_509_AT_projs/PhillipsHouse_Team/Content/fur/Parachilna_Aballs_T_ME_mat(1).fbx
+[2022.03.17-22.43.33:865][276]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.17-22.43.35:418][276]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.17-22.43.35:689][276]LogStaticMesh: Building static mesh Parachilna_Aballs_T_ME_mat_1_...
+[2022.03.17-22.43.35:787][276]LogStaticMesh: Built static mesh [0.10s] /Game/fur/Parachilna_Aballs_T_ME_mat_1_.Parachilna_Aballs_T_ME_mat_1_
+[2022.03.17-22.43.36:043][277]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.43.36:049][277]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.43.36:051][277]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 4
+[2022.03.17-22.43.36:051][277]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 3
+[2022.03.17-22.43.36:051][277]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2022.03.17-22.43.36:051][277]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 1
+[2022.03.17-22.43.36:051][277]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.43.36:053][277]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.43.36:061][277]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.43.36:079][277]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 4
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 3
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 2
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 1
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 14
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 13
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 12
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 11
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 10
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 9
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 8
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 7
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 6
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 5
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 4
+[2022.03.17-22.43.36:094][277]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 3
+[2022.03.17-22.43.36:096][277]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.36:096][277]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-22.43.36:098][277]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.36:110][277]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.36:120][277]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.36:152][277]LogSavePackage: Moving 'C:/Users/zhzixuan/Desktop/zzx/arch_509_AT_projs/PhillipsHouse_Team/Saved/Parachilna_Aballs_T_ME_mat_1_0D270F954692E5F3139A5DB788FB78EC.tmp' to 'C:/Users/zhzixuan/Desktop/zzx/arch_509_AT_projs/PhillipsHouse_Team/Content/fur/Parachilna_Aballs_T_ME_mat_1_.uasset'
+[2022.03.17-22.43.36:191][278]AssetCheck: New page: Asset Save: Parachilna_Aballs_T_ME_mat_1_
+[2022.03.17-22.43.36:192][278]LogContentValidation: Display: Validating StaticMesh /Game/fur/Parachilna_Aballs_T_ME_mat_1_.Parachilna_Aballs_T_ME_mat_1_
+[2022.03.17-22.43.36:658][294]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 44
+[2022.03.17-22.43.36:658][294]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.36:682][294]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.17-22.43.36:682][294]LogShaderCompilers: Display: Total job queries 823, among them cache hits 33 (4.01%)
+[2022.03.17-22.43.36:682][294]LogShaderCompilers: Display: Tracking 695 distinct input hashes that result in 145 distinct outputs (20.86%)
+[2022.03.17-22.43.36:682][294]LogShaderCompilers: Display: RAM used: 1.82 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2022.03.17-22.43.36:682][294]LogShaderCompilers: Display: ================================================
+[2022.03.17-22.43.36:715][295]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 41
+[2022.03.17-22.43.36:715][295]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.36:922][298]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 38
+[2022.03.17-22.43.36:922][298]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.36:942][298]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 36
+[2022.03.17-22.43.36:942][298]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.36:970][298]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 34
+[2022.03.17-22.43.36:970][298]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.37:190][304]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 32
+[2022.03.17-22.43.37:191][304]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.37:204][304]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 30
+[2022.03.17-22.43.37:204][304]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.37:263][305]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 28
+[2022.03.17-22.43.37:263][305]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.37:295][306]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 26
+[2022.03.17-22.43.37:295][306]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.37:317][306]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 24
+[2022.03.17-22.43.37:317][306]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.38:119][321]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 22
+[2022.03.17-22.43.38:119][321]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.38:395][326]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 20
+[2022.03.17-22.43.38:395][326]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.38:559][328]LogSlate: Window 'Message Log' being destroyed
+[2022.03.17-22.43.38:629][328]LogSlate: Window 'Message Log' being destroyed
+[2022.03.17-22.43.39:165][339]AssetReimport: Importing new asset /Game/fur/Parachilna_Aballs_T_ME_mat_1_.
+[2022.03.17-22.43.44:356][424]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 18
+[2022.03.17-22.43.44:356][424]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.44:596][428]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 17
+[2022.03.17-22.43.44:596][428]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.44:634][429]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 16
+[2022.03.17-22.43.44:634][429]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.44:651][429]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 15
+[2022.03.17-22.43.44:651][429]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.44:700][430]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 14
+[2022.03.17-22.43.44:700][430]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.44:792][430]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 13
+[2022.03.17-22.43.44:792][430]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.44:964][434]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 12
+[2022.03.17-22.43.44:964][434]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.45:094][436]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 11
+[2022.03.17-22.43.45:095][436]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.45:160][437]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 10
+[2022.03.17-22.43.45:160][437]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.45:208][438]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 9
+[2022.03.17-22.43.45:208][438]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.45:208][438]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 8
+[2022.03.17-22.43.45:208][438]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.45:375][441]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 7
+[2022.03.17-22.43.45:375][441]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.45:518][443]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 6
+[2022.03.17-22.43.45:518][443]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.45:598][444]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 5
+[2022.03.17-22.43.45:598][444]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 4
+[2022.03.17-22.43.45:598][444]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.45:702][446]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 3
+[2022.03.17-22.43.45:702][446]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.45:914][449]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 2
+[2022.03.17-22.43.45:914][449]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.43.46:003][450]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 1
+[2022.03.17-22.43.46:003][450]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-22.44.21:187][220]Cmd: SELECT NONE
