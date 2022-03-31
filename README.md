@@ -1,4 +1,5 @@
-# arch_509_Augmented_Tectonic_projs
+# VR Phillips House
+### arch_509_Augmented_Tectonic
 
 ## Concept
 How to use VR to create an unforgettable experience in Phillips House?
