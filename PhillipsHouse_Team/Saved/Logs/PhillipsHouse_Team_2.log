@@ -6433,3 +6433,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.05-18.58.58:490][969]LogSavePackage: Moving 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Saved/photo_position_257934258494E65369A3E95AFCA451290.tmp' to 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Content/VRTemplate/Blueprints/UI_blueprint/photo_position_2.uasset'
 [2022.04.05-18.58.58:510][969]AssetCheck: New page: Asset Save: photo_position_2
 [2022.04.05-18.58.58:510][969]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/UI_blueprint/photo_position_2.photo_position_2
+[2022.04.05-19.00.15:030][165]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.04.05-19.02.17:426][797]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.05-19.02.20:425][953]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.05-19.02.21:459][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.04.05-19.02.23:016][  1]LogSavePackage: Moving 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Saved/PhillipsHouse5CE91D544DF1F6103CC4408727B4BB05.tmp' to 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Content/VRTemplate/Maps/PhillipsHouse.umap'
+[2022.04.05-19.02.23:068][  1]AssetCheck: New page: Asset Save: PhillipsHouse
+[2022.04.05-19.02.23:068][  1]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/PhillipsHouse.PhillipsHouse
+[2022.04.05-19.09.08:437][311]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.05-19.09.10:634][425]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.05-19.09.14:027][601]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.05-19.09.15:537][687]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.05-19.09.16:854][762]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.05-19.09.18:578][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.04.05-19.09.20:099][859]LogSavePackage: Moving 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Saved/PhillipsHouse6596FB7C4E7BEAC7C7D76091FDD9DDCF.tmp' to 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Content/VRTemplate/Maps/PhillipsHouse.umap'
+[2022.04.05-19.09.20:168][859]AssetCheck: New page: Asset Save: PhillipsHouse
+[2022.04.05-19.09.20:168][859]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/PhillipsHouse.PhillipsHouse
