@@ -4220,3 +4220,200 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.09-19.05.07:757][855]LogSavePackage: Moving 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Saved/PhillipsHouseCC29B3E74B7F5DF78896A990001CCA87.tmp' to 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Content/VRTemplate/Maps/PhillipsHouse.umap'
 [2022.04.09-19.05.07:813][855]AssetCheck: New page: Asset Save: PhillipsHouse
 [2022.04.09-19.05.07:813][855]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/PhillipsHouse.PhillipsHouse
+[2022.04.09-19.06.01:979][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.09-19.06.01:979][339]LogHMD: Initializing OVRPlugin session
+[2022.04.09-19.06.12:620][339]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.09-19.06.12:620][339]PIE: New page: PIE session: PhillipsHouse (Apr 9, 2022, 11:06:12 AM)
+[2022.04.09-19.06.12:620][339]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_PhillipsHouse
+[2022.04.09-19.06.12:883][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.262679s)
+[2022.04.09-19.06.12:884][339]LogAIModule: Creating AISystem for world PhillipsHouse
+[2022.04.09-19.06.12:885][339]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2022.04.09-19.06.12:885][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/PhillipsHouse.PhillipsHouse to /Game/VRTemplate/Maps/UEDPIE_0_PhillipsHouse.PhillipsHouse (0.264196s)
+[2022.04.09-19.06.12:948][339]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2022.04.09-19.06.12:949][339]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.09-19.06.12:950][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.09-19.06.12:950][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.09-19.06.12:950][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.09-19.06.12:950][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.09-19.06.12:950][339]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.09-19.06.12:950][339]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.09-19.06.12:950][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.09-19.06.12:950][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.09-19.06.12:950][339]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.09-19.06.12:950][339]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.09-19.06.12:950][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.09-19.06.12:950][339]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.09-19.06.12:953][339]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-19.06.12:953][339]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-19.06.12:954][339]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-19.06.12:954][339]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-19.06.12:955][339]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-19.06.12:955][339]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-19.06.12:962][339]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.09-19.06.12:962][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.09-19.06.12:962][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.09-19.06.12:962][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.09-19.06.12:962][339]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.09-19.06.12:962][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.09-19.06.12:962][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.09-19.06.12:964][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.09-19.06.12:964][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.09-19.06.12:964][339]LogInit: FAudioDevice initialized.
+[2022.04.09-19.06.12:964][339]LogAudio: Display: Audio Device (ID: 6) registered with world 'PhillipsHouse'.
+[2022.04.09-19.06.12:971][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-19.06.12:981][339]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.09-19.06.13:028][339]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.09-19.06.13:030][339]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.04.09-19.06.13:030][339]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.09-19.06.13:030][339]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.04.09-19.06.13:030][339]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.09-19.06.13:030][339]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.04.09-19.06.13:030][339]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.09-19.06.13:080][339]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_PhillipsHouse.PhillipsHouse up for play (max tick rate 0) at 2022.04.09-15.06.13
+[2022.04.09-19.06.13:080][339]LogWorld: Bringing up level for play took: 0.051790
+[2022.04.09-19.06.13:081][339]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.04.09-19.06.13:083][339]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.09-19.06.13:088][339]PIE: Server logged in
+[2022.04.09-19.06.13:090][339]PIE: Play in editor total start time 11.114 seconds.
+[2022.04.09-19.06.13:090][339]LogEngine: Changing dynamic resolution state.
+[2022.04.09-19.06.13:114][339]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.09-19.06.13:139][339]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.09-19.06.13:317][342]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.04.09-19.07.01:856][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.01:884][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.01:922][727]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.01:981][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:040][729]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:090][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:124][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:179][732]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:232][733]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:288][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:323][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:377][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:429][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:484][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:540][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:597][740]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:631][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:685][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:738][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:792][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:826][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:878][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:929][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.02:985][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.03:018][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  02_GroundFloor Function:  Execute Ubergraph 02 Ground Floor Graph:  EventGraph Node:  Set Visibility
+[2022.04.09-19.07.32:310][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-19.07.32:310][271]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_PhillipsHouse
+[2022.04.09-19.07.32:357][271]LogSlate: Window 'PhillipsHouse_Team Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.09-19.07.32:395][271]LogWorld: UWorld::CleanupWorld for PhillipsHouse, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-19.07.32:404][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-19.07.32:412][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.09-19.07.32:425][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-19.07.32:464][271]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.09-19.07.32:464][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-19.07.32:465][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-19.07.32:488][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.04.09-19.07.32:619][272]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.09-19.07.32:619][272]LogEngine: Changing dynamic resolution state.
+[2022.04.09-19.07.37:376][509]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/UI_blueprint/UI_House/02_GroundFloor.02_GroundFloor
+[2022.04.09-19.07.43:071][835]BlueprintLog: New page: Compile 02_GroundFloor
+[2022.04.09-19.07.43:120][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.04.09-19.07.43:559][847]LogSavePackage: Moving 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Saved/02_GroundFloor4BF59542420BF011A72897B8D3E85D0D.tmp' to 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Content/VRTemplate/Blueprints/UI_blueprint/UI_House/02_GroundFloor.uasset'
+[2022.04.09-19.07.43:574][847]AssetCheck: New page: Asset Save: 02_GroundFloor
+[2022.04.09-19.07.43:574][847]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/UI_blueprint/UI_House/02_GroundFloor.02_GroundFloor
+[2022.04.09-19.08.24:259][894]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/UI_blueprint/UI_House/37-brick.37-brick
+[2022.04.09-19.08.41:229][419]LogEditorViewport: Clicking on Actor (LMB): 37-brick_C (37-brick2)
+[2022.04.09-19.08.41:989][441]Cmd: DELETE
+[2022.04.09-19.08.41:989][441]Cmd: ACTOR DELETE
+[2022.04.09-19.08.42:255][441]LogEditorActor: Deleted Actor: 37-brick_C
+[2022.04.09-19.08.42:291][441]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.04.09-19.08.42:292][441]LogEditorActor: Deleted 1 Actors (0.300 secs)
+[2022.04.09-19.08.45:084][523]Cmd: TRANSACTION UNDO
+[2022.04.09-19.08.45:084][523]LogEditorTransaction: Undo Delete Actors
+[2022.04.09-19.09.31:062][353]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.09-19.09.32:896][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.04.09-19.09.33:932][413]LogSavePackage: Moving 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Saved/PhillipsHouseBB5EA1054607C91507FA54B04CAB5AA0.tmp' to 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Content/VRTemplate/Maps/PhillipsHouse.umap'
+[2022.04.09-19.09.33:996][413]AssetCheck: New page: Asset Save: PhillipsHouse
+[2022.04.09-19.09.33:996][413]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/PhillipsHouse.PhillipsHouse
+[2022.04.09-19.15.39:993][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.04.09-19.16.02:506][363]LogSlate: Window 'Delete Variable' being destroyed
+[2022.04.09-19.16.04:452][422]BlueprintLog: New page: Compile VRPawn
+[2022.04.09-19.16.04:572][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2022.04.09-19.16.07:822][509]LogSavePackage: Moving 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Saved/37-brick6A6A9CD0460194E28B674EB249FAAA78.tmp' to 'C:/Users/joannehw/Desktop/arch_509_AT_projs/PhillipsHouse_Team/Content/VRTemplate/Blueprints/UI_blueprint/UI_House/37-brick.uasset'
+[2022.04.09-19.16.07:839][509]AssetCheck: New page: Asset Save: 37-brick
+[2022.04.09-19.16.07:840][509]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/UI_blueprint/UI_House/37-brick.37-brick
+[2022.04.09-19.16.37:551][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.09-19.16.37:551][627]LogHMD: Initializing OVRPlugin session
+[2022.04.09-19.16.48:191][627]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.09-19.16.48:191][627]PIE: New page: PIE session: PhillipsHouse (Apr 9, 2022, 11:16:48 AM)
+[2022.04.09-19.16.48:192][627]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_PhillipsHouse
+[2022.04.09-19.16.48:461][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.268936s)
+[2022.04.09-19.16.48:461][627]LogAIModule: Creating AISystem for world PhillipsHouse
+[2022.04.09-19.16.48:462][627]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2022.04.09-19.16.48:462][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/PhillipsHouse.PhillipsHouse to /Game/VRTemplate/Maps/UEDPIE_0_PhillipsHouse.PhillipsHouse (0.270184s)
+[2022.04.09-19.16.48:504][627]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2022.04.09-19.16.48:505][627]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.09-19.16.48:505][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.09-19.16.48:505][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.09-19.16.48:505][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.09-19.16.48:505][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.09-19.16.48:505][627]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.09-19.16.48:505][627]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.09-19.16.48:505][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.09-19.16.48:505][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.09-19.16.48:506][627]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.09-19.16.48:506][627]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.09-19.16.48:506][627]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.09-19.16.48:506][627]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.09-19.16.48:508][627]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-19.16.48:508][627]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-19.16.48:510][627]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-19.16.48:510][627]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-19.16.48:512][627]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-19.16.48:512][627]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-19.16.48:521][627]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.09-19.16.48:521][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.09-19.16.48:521][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.09-19.16.48:521][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.09-19.16.48:522][627]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.09-19.16.48:522][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.09-19.16.48:522][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.09-19.16.48:523][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.09-19.16.48:523][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.09-19.16.48:523][627]LogInit: FAudioDevice initialized.
+[2022.04.09-19.16.48:523][627]LogAudio: Display: Audio Device (ID: 7) registered with world 'PhillipsHouse'.
+[2022.04.09-19.16.48:530][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-19.16.48:546][627]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.09-19.16.48:586][627]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.09-19.16.48:587][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.04.09-19.16.48:587][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.09-19.16.48:587][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.04.09-19.16.48:588][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.09-19.16.48:588][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.04.09-19.16.48:588][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.09-19.16.48:640][627]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_PhillipsHouse.PhillipsHouse up for play (max tick rate 0) at 2022.04.09-15.16.48
+[2022.04.09-19.16.48:640][627]LogWorld: Bringing up level for play took: 0.053641
+[2022.04.09-19.16.48:641][627]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.04.09-19.16.48:643][627]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.09-19.16.48:665][627]PIE: Server logged in
+[2022.04.09-19.16.48:678][627]PIE: Play in editor total start time 11.129 seconds.
+[2022.04.09-19.16.48:678][627]LogEngine: Changing dynamic resolution state.
+[2022.04.09-19.16.48:703][627]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.09-19.16.48:729][627]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.09-19.16.48:911][630]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.04.09-19.16.54:393][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-19.16.54:393][724]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_PhillipsHouse
+[2022.04.09-19.16.54:436][724]LogSlate: Window 'PhillipsHouse_Team Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.09-19.16.54:483][724]LogWorld: UWorld::CleanupWorld for PhillipsHouse, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-19.16.54:492][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-19.16.54:510][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.09-19.16.54:528][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-19.16.54:563][724]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.09-19.16.54:563][724]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.09-19.16.54:563][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-19.16.54:564][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-19.16.54:609][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.04.09-19.16.54:648][725]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.04.09-19.16.54:656][725]LogEngine: Changing dynamic resolution state.
