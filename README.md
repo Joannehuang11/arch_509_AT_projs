@@ -18,5 +18,12 @@ Install [Oculus Developer Hub](https://developer.oculus.com/downloads/native-and
 
 Install [Android Studio](https://developer.android.com/studio/?gclid=CjwKCAjwxZqSBhAHEiwASr9n9Bj8o8Y-Dp1PBfpwaDMLB9jAT2RdEHXhzvpphTOptV3bkpYVgxykIRoCjI8QAvD_BwE&gclsrc=aw.ds)
 
-### Preview
+## Preview
+Menu includes two modes: building sequence and visit tour.
+![](preview/menu.gif)
 
+Building Sequence Mode
+![](preview/bs.gif)
+
+Visit Tour mode
+![](preview/vt.gif)
